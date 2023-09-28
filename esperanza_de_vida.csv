@@ -29,24 +29,24 @@ Capital Federal,2025,83.41,77.21
 Capital Federal,2030,84.14,77.96
 Capital Federal,2035,84.77,78.63
 Capital Federal,2040,85.33,79.21
-Córdoba,2015,80.67,74.07
-Córdoba,2020,81.72,75.2
-Córdoba,2025,82.66,76.2
-Córdoba,2030,83.49,77.1
-Córdoba,2035,84.22,77.88
-Córdoba,2040,84.86,78.57
+Cordoba,2015,80.67,74.07
+Cordoba,2020,81.72,75.2
+Cordoba,2025,82.66,76.2
+Cordoba,2030,83.49,77.1
+Cordoba,2035,84.22,77.88
+Cordoba,2040,84.86,78.57
 Corrientes,2015,79.28,73.28
 Corrientes,2020,80.54,74.55
 Corrientes,2025,81.68,75.67
 Corrientes,2030,82.65,76.64
 Corrientes,2035,83.53,77.52
 Corrientes,2040,84.27,78.28
-Entre Ríos,2015,80.46,72.97
-Entre Ríos,2020,81.54,74.25
-Entre Ríos,2025,82.51,75.39
-Entre Ríos,2030,83.36,76.39
-Entre Ríos,2035,84.11,77.28
-Entre Ríos,2040,84.77,78.06
+Entre Rios,2015,80.46,72.97
+Entre Rios,2020,81.54,74.25
+Entre Rios,2025,82.51,75.39
+Entre Rios,2030,83.36,76.39
+Entre Rios,2035,84.11,77.28
+Entre Rios,2040,84.77,78.06
 Formosa,2015,78.86,72.98
 Formosa,2020,80.25,74.37
 Formosa,2025,81.48,75.56
@@ -83,18 +83,18 @@ Misiones,2025,81.77,75.3
 Misiones,2030,82.76,76.33
 Misiones,2035,83.6,77.24
 Misiones,2040,84.35,78.04
-Neuquén,2015,81.97,75.43
-Neuquén,2020,82.85,76.39
-Neuquén,2025,83.65,77.23
-Neuquén,2030,84.33,78
-Neuquén,2035,84.93,78.66
-Neuquén,2040,85.46,79.25
-Río Negro,2015,80.8,74.94
-Río Negro,2020,81.85,75.97
-Río Negro,2025,82.76,76.88
-Río Negro,2030,83.58,77.68
-Río Negro,2035,84.3,78.38
-Río Negro,2040,84.93,79
+Neuquen,2015,81.97,75.43
+Neuquen,2020,82.85,76.39
+Neuquen,2025,83.65,77.23
+Neuquen,2030,84.33,78
+Neuquen,2035,84.93,78.66
+Neuquen,2040,85.46,79.25
+Rio Negro,2015,80.8,74.94
+Rio Negro,2020,81.85,75.97
+Rio Negro,2025,82.76,76.88
+Rio Negro,2030,83.58,77.68
+Rio Negro,2035,84.3,78.38
+Rio Negro,2040,84.93,79
 Salta,2015,79.9,73.45
 Salta,2020,81.1,74.72
 Salta,2025,82.17,75.85
@@ -137,9 +137,9 @@ Tierra del Fuego,2025,83.05,77.29
 Tierra del Fuego,2030,83.84,78.08
 Tierra del Fuego,2035,84.54,78.66
 Tierra del Fuego,2040,85.14,79.27
-Tucumán,2015,79.85,73.92
-Tucumán,2020,81.05,75.11
-Tucumán,2025,82.11,76.15
-Tucumán,2030,83.03,77.07
-Tucumán,2035,83.84,77.88
-Tucumán,2040,84.54,78.58
+Tucuman,2015,79.85,73.92
+Tucuman,2020,81.05,75.11
+Tucuman,2025,82.11,76.15
+Tucuman,2030,83.03,77.07
+Tucuman,2035,83.84,77.88
+Tucuman,2040,84.54,78.58
